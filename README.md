@@ -5,11 +5,10 @@ Date created - 5/16/2020
 Udactiy Git/Version Control Project
 
 ### Description
-Describe what your project is about and what it does
+Demonstrates ability to use git to manage versions
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Version Control course
