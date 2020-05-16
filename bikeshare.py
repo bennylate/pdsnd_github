@@ -197,7 +197,7 @@ def show_data(df):
  
     print('-'*40)                
     
-    
+# Main is the function calling back to the other functions and actually presenting the info to the user    
 def main():
     while True:
         city, month, day = get_filters()
