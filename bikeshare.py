@@ -1,7 +1,7 @@
 #Import libraries
 import time
 import pandas as pd
-import numpy as np
+
 
 CITY_DATA = { 'chicago': 'chicago.csv',
              'new york': 'new_york_city.csv',
@@ -199,7 +199,7 @@ def show_data(df):
  
     print('-'*40)                
     
-    
+# Main is the function calling back to the other functions and actually presenting the info to the user    
 def main():
     while True:
         city, month, day = get_filters()
