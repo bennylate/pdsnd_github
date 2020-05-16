@@ -8,7 +8,7 @@ Udactiy Git/Version Control Project
 Demonstrates ability to use git to manage versions
 
 ### Files used
-Include the files used
+bikeshare.py - python code for bikeshare program
 
 ### Credits
 Udacity Version Control course
