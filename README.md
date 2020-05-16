@@ -1,15 +1,14 @@
 ### Date created
 Date created - 5/16/2020
-
+### Date created
+Include the date you created this project and README file.
+### Date created   
+Date created - 5/16/2020
 ### Project Title
 Udactiy Git/Version Control Project
-
 ### Description
-Describe what your project is about and what it does
-
+Demonstrates ability to use git to manage versions
 ### Files used
-Include the files used
-
+bikeshare.py - python code for bikeshare program
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Version Control course
